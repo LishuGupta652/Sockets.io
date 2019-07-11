@@ -1,2 +1,9 @@
-# websockets-playlist
-All the course files for the WebSockets playlist on The Net Ninja YouTube channel.
+# websockets
+Working app with Sockets
+
+# Use the following commands
+
+## npm install 
+
+
+## npm start 
